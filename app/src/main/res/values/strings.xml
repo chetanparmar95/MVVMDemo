@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMDemo</string>
+    <string name="default_loading_people">Press button to load people</string>
+    <string name="error_loading_people">there seems to have some error..</string>
+</resources>
